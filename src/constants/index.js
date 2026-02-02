@@ -1,3 +1,4 @@
+import * as assets from "../assets";
 import {
   AiFillGithub,
   AiFillInstagram,
