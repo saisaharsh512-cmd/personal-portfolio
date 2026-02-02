@@ -321,12 +321,12 @@ export const socialMedia = [
   {
     id: "social-media-4",
     icon: AiOutlineTwitter,
-    link: "https://www.twitter.com/<your-twitter-id>/",
+    link: "https://x.com/p_sai38012",
   },
   {
     id: "social-media-5",
     icon: AiFillInstagram,
-    link: "https://www.instagram.com/<your-instagram-id>/",
+    link: "https://www.instagram.com/spsaisaharsh/",
   },
 ];
 

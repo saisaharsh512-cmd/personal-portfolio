@@ -91,7 +91,7 @@ import { RiGeminiFill } from "react-icons/ri";
 
 export const resumeLink =
   "https://drive.google.com/file/d/1vkxyMDB5_KpMwt4QXFgT2aqdRizr8Czh/view?usp=sharing";
-export const repoLink = "https://github.com/mittal-parth/personal-portfolio";
+export const repoLink = "https://github.com/saisaharsh512-cmd";
 
 export const callToAction = "https://www.linkedin.com/in/s-p-sai-saharsh-7995b036a/";
 
@@ -133,18 +133,17 @@ export const educationList = [
     icon: nitk,
     title: "National Institute of Technology Karnataka, Surathkal",
     degree: "Bachelor of Technology",
-    duration: "December 2020 - May 2024",
-    content1: "Major: Electronics and Communication Engineering",
-    content2: "Minor: Information Technology",
+    duration: "2025 - 2029",
+    content1: "Major: Computer Science & Engineering",
   },
   {
     id: "education-2",
-    icon: pba,
-    title: "Polkadot Blockchain Academy",
+    icon: KV,
+    title: "Kendriya Vidyalaya DRDO",
     degree: "",
-    duration: "May 2024 - June 2024",
+    duration: "2013 - 2025",
     content1:
-      "Graduated with a distinction in the fifth cohort of the Polkadot Blockchain Academy at the National University of Singapore.",
+      "Completed my schooling in KV DRDO Bangalore.",
   },
 ];
 
@@ -1141,17 +1140,17 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "mailto:work.parthmittal@gmail.com",
+    link: "saisaharsh512@gmail.com",
   },
   {
     id: "social-media-4",
     icon: AiOutlineTwitter,
-    link: "https://www.twitter.com/mittalparth_",
+    link: "https://x.com/p_sai38012",
   },
   {
     id: "social-media-5",
     icon: AiFillInstagram,
-    link: "https://www.instagram.com/mittalparth_",
+    link: "https://www.instagram.com/spsaisaharsh/",
   },
 ];
 
