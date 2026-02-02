@@ -1131,7 +1131,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: AiFillLinkedin,
-    link: "https://www.linkedin.com/in/mittal-parth",
+    link: "https://www.linkedin.com/in/s-p-sai-saharsh-7995b036a/",
   },
   {
     id: "social-media-2",
