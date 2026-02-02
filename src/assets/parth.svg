@@ -1,50 +1,41 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 230 110"
-  width="230"
-  height="110"
-  role="img"
-  aria-label="S P Sai Saharsh logo"
+  viewBox="0 0 220 80"
+  width="220"
+  height="80"
 >
   <!-- Left brace -->
   <text
-    x="0"
-    y="80"
-    font-size="72"
+    x="12"
+    y="56"
+    font-size="60"
+    font-family="Arial, Helvetica, sans-serif"
     fill="#3FFFEA"
   >
     &#123;
   </text>
 
-  <!-- Top line -->
+  <!-- Name (smaller, optically centered) -->
   <text
-    x="44"
-    y="46"
-    font-size="26"
+    x="112"
+    y="56"
+    font-size="28"
+    font-family="Arial, Helvetica, sans-serif"
     font-weight="600"
-    letter-spacing="2.5"
+    letter-spacing="3"
     fill="#FFFFFF"
-  >
-    S P SAI
-  </text>
-
-  <!-- Bottom line -->
-  <text
-    x="44"
-    y="80"
-    font-size="26"
-    font-weight="600"
-    letter-spacing="2.5"
-    fill="#FFFFFF"
+    text-anchor="middle"
+    dominant-baseline="middle"
   >
     SAHARSH
   </text>
 
   <!-- Right brace -->
   <text
-    x="175"
-    y="80"
-    font-size="72"
+    x="198"
+    y="56"
+    font-size="60"
+    font-family="Arial, Helvetica, sans-serif"
     fill="#3FFFEA"
   >
     &#125;
