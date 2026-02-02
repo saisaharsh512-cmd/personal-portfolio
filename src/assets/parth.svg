@@ -1,7 +1,7 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 245 110"
-  width="245"
+  viewBox="0 0 230 110"
+  width="230"
   height="110"
   role="img"
   aria-label="S P Sai Saharsh logo"
@@ -11,18 +11,16 @@
     x="0"
     y="80"
     font-size="72"
-    font-family="JetBrains Mono, Consolas, monospace"
     fill="#3FFFEA"
   >
-    {
+    &#123;
   </text>
 
   <!-- Top line -->
   <text
-    x="46"
+    x="44"
     y="46"
     font-size="26"
-    font-family="Poppins, Inter, Arial, sans-serif"
     font-weight="600"
     letter-spacing="2.5"
     fill="#FFFFFF"
@@ -32,10 +30,9 @@
 
   <!-- Bottom line -->
   <text
-    x="46"
+    x="44"
     y="80"
     font-size="26"
-    font-family="Poppins, Inter, Arial, sans-serif"
     font-weight="600"
     letter-spacing="2.5"
     fill="#FFFFFF"
@@ -43,14 +40,13 @@
     SAHARSH
   </text>
 
-  <!-- Right brace (EXTREMELY CLOSE) -->
+  <!-- Right brace -->
   <text
-    x="195"
+    x="175"
     y="80"
     font-size="72"
-    font-family="JetBrains Mono, Consolas, monospace"
     fill="#3FFFEA"
   >
-    }
+    &#125;
   </text>
 </svg>
