@@ -1,4 +1,4 @@
-import parthmittal from "./parth.svg";
+import parthmittal from "./saharsh.svg";
 import profilePic from "./profile-pic.jpg";
 import menu from "./menu.svg";
 import close from "./close.svg";
