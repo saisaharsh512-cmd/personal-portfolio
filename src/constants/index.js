@@ -135,6 +135,7 @@ export const educationList = [
     degree: "Bachelor of Technology",
     duration: "2025 - 2029",
     content1: "Major: Computer Science & Engineering",
+    content2: "Minor: Information Technology",
   },
   {
     id: "education-2",
