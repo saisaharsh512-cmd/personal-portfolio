@@ -139,7 +139,7 @@ export const educationList = [
   },
   {
     id: "education-2",
-    icon: KV,
+    icon: nitk,
     title: "Kendriya Vidyalaya DRDO",
     degree: "",
     duration: "2013 - 2025",
